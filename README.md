@@ -41,6 +41,7 @@ Salary Prediction Model:
 Built a MultiOutput Random Forest Regressor to predict minimum and maximum salaries simultaneously.
 Provided real-time salary insights based on qualifications, experience, and location, benefiting job seekers and employers.
 
+![image](https://github.com/user-attachments/assets/c2f09833-3533-4c15-a699-f8d7f29f3a5a)
 
 ### Result
 ✅ Enhanced salary prediction accuracy, enabling data-driven decision-making for job seekers and employers.
