@@ -5,14 +5,21 @@ The demand for data analytics professionals in the U.S. is evolving rapidly, wit
 ### The objective of this study was to analyze the 2024 U.S. job market for data analytics professionals, providing insights into:
 
 Geographical distribution of job opportunities.
+![image](https://github.com/user-attachments/assets/d0184e8d-7726-4537-af5a-e8d5f1ca87c5)
+
 Salary trends across various roles and industries.
+
 Most in-demand technical skills in the field.
 Educational requirements for different positions.
 Remote vs. hybrid vs. on-site work trends.
 Job market concentration among top companies.
 
-### DATA COLLECTION:
-Collected real-time job postings using SERP API https://serpapi.com/ from multiple job platforms.
+### Work Flow
+1. For this project we have Collected real-time job postings using SERP API https://serpapi.com/ from multiple job platforms.
+2. Applied Natural Language Processing (NLP) techniques (e.g., BERT) to extract salary information.
+3. Processed unstructured job descriptions by standardizing categories, refining experience fields, and structuring skills/education data.
+4. Created a synonym dictionary to enhance skill extraction from job postings.
+5. Finally, Developed a MultiOutput Random Forest Regressor to predict Min and Max Salaries simultaneously, providing real-time salary insights based on qualifications, experience, and location for job seekers and employers.
 
 ### Result
 Enhanced salary prediction accuracy, enabling data-driven decision-making for job seekers and employers.
