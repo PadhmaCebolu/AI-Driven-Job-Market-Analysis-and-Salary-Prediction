@@ -17,5 +17,5 @@ Collected real-time job postings using SERP API https://serpapi.com/ from multip
 ### Result
 Enhanced salary prediction accuracy, enabling data-driven decision-making for job seekers and employers.
 Provided real-time salary insights, reducing uncertainty in job negotiations and compensation planning.
-Created a scalable model adaptable to various industrie https://serpapi.com/s and geographies.
+Created a scalable model adaptable to various industries and geographies.
 Improved transparency in salary expectations, helping recruiters optimize hiring strategies.
