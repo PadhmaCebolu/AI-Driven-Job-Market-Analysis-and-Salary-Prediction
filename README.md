@@ -44,6 +44,9 @@ Provided real-time salary insights based on qualifications, experience, and loca
 
 ### Result
 ✅ Enhanced salary prediction accuracy, enabling data-driven decision-making for job seekers and employers.
+
 ✅ Provided real-time salary insights, reducing uncertainty in job negotiations and compensation planning.
+
 ✅ Created a scalable model adaptable to various industries and geographies.
+
 ✅ Improved salary transparency, helping recruiters optimize hiring strategies.
