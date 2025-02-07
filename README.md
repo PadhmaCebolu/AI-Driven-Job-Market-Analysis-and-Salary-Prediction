@@ -1,4 +1,4 @@
-q  # AI-Driven-Job-Market-Analysis-and-Salary-Prediction
+# AI-Driven-Job-Market-Analysis-and-Salary-Prediction
 
 The demand for data analytics professionals in the U.S. is evolving rapidly, with new roles, skill requirements, and salary trends emerging across industries. Despite the increasing integration of data-driven decision-making and AI advancements, job seekers and professionals face uncertainty regarding career prospects, market demand, and potential earnings. Additionally, academic institutions struggle to align curricula with industry needs, creating a gap between education and workforce readiness.
 
